@@ -1,6 +1,8 @@
 # Modular2RecyclerX
 
-Extensions for Modular²Recycler
+[![Download](https://api.bintray.com/packages/minyushov/android/Modular2RecyclerX/images/download.svg)](https://bintray.com/minyushov/android/Modular2RecyclerX/_latestVersion)
+
+Extensions for [Modular²Recycler](https://github.com/maxxx/Modular2Recycler)
 
 ```groovy
 repositories {
