@@ -1,0 +1,22 @@
+buildscript {
+  repositories {
+    google()
+    jcenter()
+    maven { url 'https://dl.bintray.com/minyushov/gradle' }
+  }
+  dependencies {
+    classpath "com.android.tools.build:gradle:3.0.1"
+    classpath "com.minyushov.gradle:bintray:1.0.3"
+  }
+}
+
+allprojects {
+  repositories {
+    google()
+    jcenter()
+  }
+}
+
+task clean(type: Delete) {
+  delete rootProject.buildDir
+}
