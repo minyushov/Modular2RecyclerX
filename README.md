@@ -11,6 +11,6 @@ repositories {
 }
 
 dependencies {
-    implementation "com.minyushov.android:Modular2RecyclerX:1.1.12"
+    implementation "com.minyushov.android:Modular2RecyclerX:1.1.13"
 }
 ```
