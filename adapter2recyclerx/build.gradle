@@ -22,7 +22,8 @@ repositories {
 
 dependencies {
   compileOnly "com.google.code.findbugs:jsr305:3.0.2"
-  api "com.github.maxxx:Modular2Recycler:1.1.12"
+  api "com.github.maxxx:Modular2Recycler:1.1.13"
+  testImplementation "junit:junit:4.12"
 }
 
 bintrayUpload {
@@ -30,7 +31,7 @@ bintrayUpload {
   repo = "android"
   groupId = "com.minyushov.android"
   artifactId = "Modular2RecyclerX"
-  version = "1.1.12"
+  version = "1.1.13"
   vcsUrl = "https://github.com/minyushov/Modular2RecyclerX.git"
   license = "Apache-2.0"
   docs = false

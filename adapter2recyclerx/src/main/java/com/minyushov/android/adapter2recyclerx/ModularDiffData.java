@@ -1,7 +1,5 @@
 package com.minyushov.android.adapter2recyclerx;
 
-import android.support.v7.util.DiffUtil;
-
 import java.util.List;
 
 import javax.annotation.Nullable;
