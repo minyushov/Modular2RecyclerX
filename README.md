@@ -1,3 +1,5 @@
+*This library is deprecated. Consider using [modular-adapter](https://github.com/minyushov/modular-adapter).*
+
 # Modular2RecyclerX
 
 [![Download](https://api.bintray.com/packages/minyushov/android/Modular2RecyclerX/images/download.svg)](https://bintray.com/minyushov/android/Modular2RecyclerX/_latestVersion)
